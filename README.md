@@ -1,2 +1,2 @@
 # Python-projects
-This repo is created to improve my Python skills, learn &amp; upskill my coding skill &amp; last but not least to improve my machine learning skills 
+"This repository is made to help me get better at Python, improve my coding abilities, and also get better at machine learning skills. It allows me to keep practicing and improving my skills in programming and working with data."
